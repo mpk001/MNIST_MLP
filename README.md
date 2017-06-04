@@ -4,4 +4,4 @@ TensorFlow实现的MNIST手写体识别代码
 
 TensorFlow的版本是1.0.0
 
-具体有注释的代码见：
+关于代码的注释见：
